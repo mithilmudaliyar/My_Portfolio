@@ -1,4 +1,4 @@
-This portfolio is truly made using HTML, 
+This portfolio is truly made using HTML, CSS and JavaScript.
 
 Owner: https://github.com/mithilmudaliyar
 
